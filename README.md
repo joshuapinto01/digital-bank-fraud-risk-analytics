@@ -64,6 +64,6 @@ During the exploration phase, it was identified that the transaction amounts fol
 ## 10. Author
 
 **Joshua Pinto**  
-*Aspiring Data Analyst based in the Netherlands.*  
+*Data Analyst based in the Netherlands.*  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joshua%20Caldas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-caldas-pinto/)
