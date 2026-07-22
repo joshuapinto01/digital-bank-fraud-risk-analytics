@@ -44,7 +44,7 @@ The analysis is based on two synthetic datasets provided in CSV format:
 
 The Power BI dashboard provides an executive overview of fraud activity, including key KPIs, merchant category exposure, monthly fraud trends, transaction value tiers, and a ranking of high-risk customer IDs.
 
-![Digital Bank Fraud & Risk Analytics Dashboard](images/dashboard_preview.png)
+![Digital Bank Fraud & Risk Analytics Dashboard](dashboard_preview.png)
 
 ## 7. Key Insights
 *   **Stable Fraud Rate:** The analysis identified a consistent **3.01% fraud rate** across the total transaction volume.
